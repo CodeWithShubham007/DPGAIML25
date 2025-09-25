@@ -8,4 +8,5 @@ str1 = "company name is ABC"
 
 # print(len(str))
 
-print("p" in str)
+# print("p" in str)
+
