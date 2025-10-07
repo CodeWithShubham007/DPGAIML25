@@ -18,3 +18,10 @@
 # ***
 # ****
 # *****
+
+# Q4. Print this pattern using nested loops:
+# 1
+# 12
+# 123
+# 1234
+# 12345
