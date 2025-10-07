@@ -50,11 +50,13 @@ listData = [34,65,66,34, 89,75,34,22,90,12,45]
 
 # list1 = [2,4,6,8,10]
 # list2 = [1,3,5,7,9]
-list1 = [2,4,6,8,10]
-list2 = [1,3,5,7,9]
-combinedList = list1 + list2
-combinedList.sort()
-print("Combined Sorted List:", combinedList)
-print("Combined Sorted List:", list1 + list2)
+# list1 = [2,4,6,8,10]
+# list2 = [1,3,5,7,9]
+# combinedList = list1 + list2
+# combinedList.sort()
+# print("Combined Sorted List:", combinedList)
+# print("Combined Sorted List:", list1 + list2)
 
 
+abc = {11,2,3,4,5,2,3,2,4, "Hello", "hello", "Hello"}
+print(abc)
